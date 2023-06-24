@@ -20,3 +20,4 @@ Usage of GitHub Copilot in this project:
    - It assisted in handling connection errors, like `urllib.error.URLError`, when the tool failed to connect to the weather service.
 
 By leveraging the power of GitHub Copilot, this weather forecasting tool was developed more efficiently with accurate suggestions, reducing the need for manual coding and ensuring robust error handling.
+![weather forcasting output with code](https://github.com/Fastest-Coder-First/weather-forecast-tool/assets/121756265/e10a683c-baf2-4ac9-8e29-2cf8e40862b1)
